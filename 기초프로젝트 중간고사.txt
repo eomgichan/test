@@ -1,0 +1,25 @@
+필드랑 변수 구분
+
+필드 메소드 객체 파악
+
+오버로드 오버라이드 개념 이해
+
+swing - gui에서의 event 이해
+
+event 처리 과정 이해   *listener 구현 or 상속
+
+어떤 종류의 인터페이스와 클래스가 필요한지 이해(강의 슬라이드의 표)
+
+상대경로 절대경로 차이점 - 예시로 만들어 낼 수 있어야함
+
+입력 스트림, 출력 스트림이 뭔지
+
+filereader, filewriter, bufferedreader, bufferedwriter
+
+stringtokenizer 사용할 수 있어야함
+
+실습코드 이해
+
+18장 27페이지 코드 이해 (파일 입출력)
+
+label button table combobox tree textfield 어떻게 만들고 값을 주고 어떤 이벤트가 발생하는지 이해
